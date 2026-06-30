@@ -81,5 +81,5 @@ Preparação para projetos maiores como libft
 ✔ Finalizado (ou em progresso, se aplicável)
 
 👩‍💻 Autor
-
+gg
 Rayane Pereira
